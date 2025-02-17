@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aman-Data-wizard
-- 👀 I’m interested in Analyzing and Visuliazing the Data into informative and for useful insights.
-- 🌱 I’m currently learning python and R and other tools for Data analysis.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m working as a Data Analyst, So I'm Analyzing and Visuliazing the Raw Data into a informative useful insights.
+- 🌱 I’m currently learning Advance python and R for statistical computing, and machine learning.
+- 💞️ I’m looking to collaborate on with you on related projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
