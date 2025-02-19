@@ -1,7 +1,7 @@
 👋 Hi, I’m @Aman-Data-Wizard!
 
 👀 I’m passionate about analyzing and visualizing data to uncover hidden trends and valuable insights.
-🌱 Currently learning Python, R, and other data analysis tools to enhance my skills.
+🌱 Currently working in Python, SQL, R and other data analysis tools to enhance my skills.
 💡 Always eager to collaborate on data-driven projects and insights.
 📫 Reach me at [+919084128950 or https://www.linkedin.com/in/aman--78bca8208/].
 😄 Pronouns: [Your pronouns, if you wish to share].
