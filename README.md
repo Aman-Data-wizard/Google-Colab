@@ -35,6 +35,8 @@ I'm a Computer Science student deeply fascinated by the world of data analysis. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aman--78bca8208)
 [![HackerRank](https://img.shields.io/badge/HackerRank-1ba94c?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/singh_mie4166)
 
+My Certifications:
+[!HackerRank](https://www.hackerrank.com/certificates/iframe/e9f22e6d5dd9)
 ---
 
 <!-- Optional Fun Fact or Personal Touch -->
